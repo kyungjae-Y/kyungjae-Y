@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="100"/>
+<img align="center" src="https://github.com/kyungjae-Y/kyungjae-Y/blob/main/upload/profile.png?raw=true" width="100"/>
 <br>
 
 ### 나를 소개하는 한 문장 
@@ -39,12 +39,12 @@
     <tr>
       <td>
       <a href="https://youtu.be/IdmUKr8JPSs" title="EYEVEL">
-          <img align="center" src="https://github.com/kyungjae-Y/kyungjae-Y/blob/main/upload/profile.PNG?raw=true" width="300px" >
+          <img align="center" src="https://github.com/kyungjae-Y/kyungjae-Y/blob/main/upload/EYEVEL.png?raw=true" width="300px" >
         </a>
       </td>
       <td>
        <a href="https://youtu.be/QlO0mMiI63U" title="간주">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
+          <img align="center" src="https://github.com/kyungjae-Y/kyungjae-Y/blob/main/upload/ganju.svg?raw=true" width="300px" >
         </a>
       </td>
     </tr>
