@@ -19,7 +19,7 @@
 ---
 
 ### 참여 프로젝트 
-1. [프로젝트1]([about:blank])
+1. [렌트카](https://github.com/kyungjae-Y/YKJ_RentCar)
 2. [EYEVEL](http://eyevel.org/EYEVEL/main.do)
 3. [간주](http://ganju.pe.kr:8081/)
 
