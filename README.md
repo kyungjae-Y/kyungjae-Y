@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/kyungjae-Y/kyungjae-Y/blob/main/upload/profile.png?raw=true" width="100"/>
 <br>
-Notion : https://www.notion.so/d2b0260ca0e44b3d9df93fc88d64db08
+Notion : https://www.notion.so/d2b0260ca0e44b3d9df93fc88d64db08 <br>
 Page : https://kyungjae-y.github.io/
 
 ### 나를 소개하는 한 문장 
